@@ -1,2 +1,2 @@
-# pokharel
+# Pokharel
 My personal repository
